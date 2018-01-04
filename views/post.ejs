@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MY APP</title>
+  <script>
+  q = function(){
+      var e = new Date().toLocaleString();
+      return e;
+  }
+
+  d = function(){
+      document.getElementById('myField').value = q();
+  }
+  </script>
+</head>
+<body>
+  May Node and Express be with you.
+
+
+  <form action="/quotes" method="POST">
+    <input type="text" placeholder="bookName" name="bookName">
+    <input type="text" placeholder="author" name="author">
+        <br>
+    <textarea name = "blogPost" rows="5" cols="75">Enter Blog Post </textarea>
+    <input type='hidden' id='myField' value='' name ='date'>
+    
+    <button type="submit" onclick="d()">Submit</button>
+  </form>
+</body>
+</html>
