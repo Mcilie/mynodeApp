@@ -20,7 +20,9 @@ app.get('/posts/:id', (req, res) => {
   db.collection('quotes').find({ _id: id}).toArray((err, result) => {
     if (err) return console.log(err)
     console.log(result);
-    res.render('onePost.ejs', {quote: result[0]})
+    var q = result[0];
+    q.blogPost = q.blogPost.replace("\r","").replace("\n","<br>")
+    res.render('onePost.ejs', {quote: q})//result[0]})
     }
     )
 })
