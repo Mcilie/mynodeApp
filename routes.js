@@ -2,9 +2,11 @@
 module.exports = (app,db) => {
 
 app.post('/quotes', (req, res) => {
-
+  if (req.body.password !== "xkcd"){
+  res.redirect('/')
+  }
   db.collection('quotes').save(req.body, (err, result) => {
-    if ((err)||req.body.password !== "xkcd" ) return console.log(err)
+    if (err) return console.log(err)
     console.log(req.body);
     console.log('saved to database')
     res.redirect('/')
