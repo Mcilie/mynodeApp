@@ -1,0 +1,16 @@
+{
+  "name": "nml",
+  "version": "0.0.1",
+  "description": "An ML library for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node "
+  },
+  "keywords": [
+    "ML",
+    "Machine",
+    "Learning"
+  ],
+  "author": "Michael C Ilie",
+  "license": "BSD-2-Clause"
+}
