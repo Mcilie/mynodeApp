@@ -1,0 +1,114 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Correcting dependencies... Done
+The following packages were automatically installed and are no longer required:
+  caribou clinfo-amdgpu-pro containerd flashplugin-installer gcc-5-base:i386
+  gcc-6-base:i386 gcc-7-base:i386 gdal-data gir1.2-caribou-1.0
+  gir1.2-clutter-1.0 gir1.2-cogl-1.0 gir1.2-coglpango-1.0 gir1.2-mutter-1
+  gir1.2-networkmanager-1.0 gir1.2-nmgtk-1.0 gnome-logs gyp ibverbs-providers
+  ids-amdgpu-pro libaec0 libapache2-mod-php7.1 libarmadillo7 libarmadillo8
+  libarpack2 libass5 libavcodec-ffmpeg56 libavfilter-ffmpeg5
+  libavformat-ffmpeg56 libavresample-ffmpeg2 libavutil-ffmpeg54 libblas-common
+  libbluray1 libboost-date-time1.62.0 libboost-filesystem1.62.0
+  libboost-iostreams1.62.0 libboost-program-options1.58.0
+  libboost-program-options1.62.0 libboost-system1.62.0 libboost-thread1.62.0
+  libcapnp-0.5.3 libcaribou-common libcaribou0 libchromaprint0 libcunit1
+  libdap25 libdapclient6v5 libdrm-amdgpu-pro-amdgpu1
+  libdrm-amdgpu-pro-amdgpu1:i386 libdrm2-amdgpu-pro libdrm2-amdgpu-pro:i386
+  libepsilon1 libfabric1 libfreexl1 libfyba0 libgdal20 libgeos-3.5.1
+  libgeos-3.6.2 libgeos-c1v5 libgeotiff2 libgfortran3 libgl2ps1 libgl2ps1.4
+  libgnome-games-support-1-2 libgsoap8 libgtkglext1 libhdf4-0-alt libhdf5-100
+  libhdf5-openmpi-100 libhwloc-plugins libhwloc5 libibverbs1 libical2
+  libjs-async libjs-inherits libjs-node-uuid libjs-underscore libkmlbase1
+  libkmldom1 libkmlengine1 liblept5 libllvm4.0 libllvm4.0:i386 libllvm5.0
+  libllvm5.0:i386 liblouis12 liblouisutdml7 libmimic0 libminizip1
+  libmutter-1-0 libnetcdf-c++4 libnetcdf11 libnetcdf13 libnl-route-3-200
+  libntfs-3g872 libodbc1 libogdi3.2 libopencl1-amdgpu-pro
+  libopencl1-amdgpu-pro:i386 libopencv-calib3d2.4v5 libopencv-contrib2.4v5
+  libopencv-core2.4v5 libopencv-core3.1 libopencv-features2d2.4v5
+  libopencv-flann2.4v5 libopencv-flann3.1 libopencv-highgui2.4v5
+  libopencv-imgproc2.4v5 libopencv-imgproc3.1 libopencv-legacy2.4v5
+  libopencv-ml2.4v5 libopencv-ml3.1 libopencv-objdetect2.4v5
+  libopencv-photo3.1 libopencv-shape3.1 libopencv-video2.4v5
+  libopencv-video3.1 libopencv-viz3.1 libopenjpeg5 libopenmpi2 liborcus-0.12-0
+  libpoppler68 libpostproc-ffmpeg53 libproj12 libpsm-infinipath1
+  libpython3.5-dev libqcustomplot1.3 libqhull7 libqpdf18 libqt4-opengl
+  librdmacm1 librpm3 librpmbuild3 librpmio3 librpmsign3 libruby2.3
+  libschroedinger-1.0-0 libsodium18 libspatialite7 libsrtp0 libssl1.0.0:i386
+  libsuitesparseconfig4 libsuperlu5 libswresample-ffmpeg1 libswscale-ffmpeg3
+  libsz2 libtbb2 libtesseract-data libtesseract3 liburiparser1 libuv1-dev
+  libva-drm1 libva-wayland1 libva-x11-1 libvdpau-amdgpu-pro
+  libvdpau-amdgpu-pro:i386 libvncserver1 libvpx4 libvtk6.3 libwebpdemux1
+  libwildmidi1 libx264-148 libx265-130 libx265-79 libxerces-c3.1
+  libxerces-c3.2 linux-headers-4.10.0-28 linux-headers-4.10.0-28-generic
+  linux-headers-4.10.0-42 linux-headers-4.10.0-42-generic
+  linux-headers-4.13.0-31 linux-headers-4.13.0-31-generic
+  linux-headers-4.13.0-32 linux-headers-4.13.0-32-generic
+  linux-headers-4.13.0-36 linux-headers-4.13.0-36-generic
+  linux-headers-4.13.0-37 linux-headers-4.13.0-37-generic
+  linux-headers-4.13.0-38 linux-headers-4.13.0-38-generic
+  linux-headers-generic-hwe-16.04 linux-image-4.10.0-28-generic
+  linux-image-4.10.0-42-generic linux-image-4.13.0-26-generic
+  linux-image-4.13.0-31-generic linux-image-4.13.0-32-generic
+  linux-image-4.13.0-36-generic linux-image-4.13.0-37-generic
+  linux-image-4.13.0-38-generic linux-image-extra-4.10.0-28-generic
+  linux-image-extra-4.10.0-42-generic linux-image-extra-4.13.0-26-generic
+  linux-image-extra-4.13.0-31-generic linux-image-extra-4.13.0-32-generic
+  linux-image-extra-4.13.0-36-generic linux-image-extra-4.13.0-37-generic
+  linux-image-extra-4.13.0-38-generic linux-image-generic-hwe-16.04
+  node-abbrev node-ansi node-ansi-color-table node-archy node-async
+  node-balanced-match node-block-stream node-brace-expansion
+  node-builtin-modules node-combined-stream node-concat-map node-cookie-jar
+  node-delayed-stream node-forever-agent node-form-data node-fs.realpath
+  node-fstream node-fstream-ignore node-github-url-from-git node-glob
+  node-graceful-fs node-gyp node-hosted-git-info node-inflight node-inherits
+  node-ini node-is-builtin-module node-isexe node-json-stringify-safe
+  node-lockfile node-lru-cache node-mime node-minimatch node-mkdirp
+  node-mute-stream node-node-uuid node-nopt node-normalize-package-data
+  node-npmlog node-once node-osenv node-path-is-absolute node-pseudomap
+  node-qs node-read node-read-package-json node-request node-retry node-rimraf
+  node-semver node-sha node-sigmund node-slide node-spdx-correct
+  node-spdx-expression-parse node-spdx-license-ids node-tar node-tunnel-agent
+  node-underscore node-validate-npm-package-license node-which node-wrappy
+  node-yallist odbcinst odbcinst1debian2 opencl-amdgpu-pro-icd
+  opencl-amdgpu-pro-icd:i386 openjdk-8-jdk openjdk-8-jdk-headless openmpi-bin
+  openmpi-common php7.0 php7.0-cli php7.0-common php7.0-fpm php7.0-json
+  php7.0-opcache php7.0-readline php7.1 php7.1-cli php7.1-common php7.1-json
+  php7.1-opcache php7.1-readline proj-bin proj-data python3.5-dev ruby2.3 runc
+  s-nail snapd-login-service xserver-xorg-input-all-hwe-16.04
+  xserver-xorg-input-evdev-hwe-16.04 xserver-xorg-input-synaptics-hwe-16.04
+  xserver-xorg-input-wacom-hwe-16.04 xserver-xorg-legacy-hwe-16.04
+  xserver-xorg-video-amdgpu-hwe-16.04 xserver-xorg-video-amdgpu-pro
+  xserver-xorg-video-glamoregl-amdgpu-pro xserver-xorg-video-qxl-hwe-16.04
+  xserver-xorg-video-vesa-hwe-16.04
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  amdgpu-dkms libdrm2-amdgpu libdrm2-amdgpu:i386
+The following NEW packages will be installed:
+  amdgpu-dkms libdrm2-amdgpu libdrm2-amdgpu:i386
+0 upgraded, 3 newly installed, 0 to remove and 4 not upgraded.
+69 not fully installed or removed.
+Need to get 0 B/6,210 kB of archives.
+After this operation, 131 MB of additional disk space will be used.
+Get:1 file:/var/opt/amdgpu-pro-local ./ amdgpu-dkms 18.20-579836 [6,148 kB]
+Get:2 file:/var/opt/amdgpu-pro-local ./ libdrm2-amdgpu 1:2.4.91-579836 [30.5 kB]
+Get:3 file:/var/opt/amdgpu-pro-local ./ libdrm2-amdgpu 1:2.4.91-579836 [31.6 kB]
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 586950 files and directories currently installed.)
+Preparing to unpack .../amdgpu-dkms_18.20-579836_all.deb ...
+Unpacking amdgpu-dkms (18.20-579836) ...
+dpkg: error processing archive /var/opt/amdgpu-pro-local/./amdgpu-dkms_18.20-579836_all.deb (--unpack):
+ trying to overwrite '/etc/modprobe.d/blacklist-radeon.conf', which is also in package amdgpu-pro-dkms 17.40-492261
+dpkg-deb: error: paste subprocess was killed by signal (Broken pipe)
+Preparing to unpack .../libdrm2-amdgpu_2.4.91-579836_amd64.deb ...
+Unpacking libdrm2-amdgpu:amd64 (1:2.4.91-579836) ...
+dpkg: error processing archive /var/opt/amdgpu-pro-local/./libdrm2-amdgpu_2.4.91-579836_amd64.deb (--unpack):
+ trying to overwrite '/lib/udev/rules.d/91-amdgpu-pro-modeset.rules', which is also in package libdrm2-amdgpu-pro:i386 1:2.4.82-492261
+Preparing to unpack .../libdrm2-amdgpu_2.4.91-579836_i386.deb ...
+Unpacking libdrm2-amdgpu:i386 (1:2.4.91-579836) ...
+dpkg: error processing archive /var/opt/amdgpu-pro-local/./libdrm2-amdgpu_2.4.91-579836_i386.deb (--unpack):
+ trying to overwrite '/lib/udev/rules.d/91-amdgpu-pro-modeset.rules', which is also in package libdrm2-amdgpu-pro:i386 1:2.4.82-492261
+Errors were encountered while processing:
+ /var/opt/amdgpu-pro-local/./amdgpu-dkms_18.20-579836_all.deb
+ /var/opt/amdgpu-pro-local/./libdrm2-amdgpu_2.4.91-579836_amd64.deb
+ /var/opt/amdgpu-pro-local/./libdrm2-amdgpu_2.4.91-579836_i386.deb
