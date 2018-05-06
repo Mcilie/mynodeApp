@@ -8,6 +8,7 @@ Architecture: amd64
 Version: 18.20-579836
 Depends: amdgpu-core (= 18.20-579836), amdgpu-dkms (= 18.20-579836), libdrm2-amdgpu (= 1:2.4.91-579836), libdrm-amdgpu-amdgpu1 (= 1:2.4.91-579836), ids-amdgpu (= 1.0.0-579836), libllvm6.0-amdgpu (= 1:6.0-579836), libwayland-amdgpu-client0 (= 1.14.0-579836), libwayland-amdgpu-server0 (= 1.14.0-579836), libxatracker2-amdgpu (= 1:18.0.0-579836), libgbm1-amdgpu (= 1:18.0.0-579836), libegl1-amdgpu-mesa (= 1:18.0.0-579836), libegl1-amdgpu-mesa-drivers (= 1:18.0.0-579836), libwayland-amdgpu-egl1-mesa (= 1:18.0.0-579836), libgles1-amdgpu-mesa (= 1:18.0.0-579836), libgles2-amdgpu-mesa (= 1:18.0.0-579836), libglapi-amdgpu-mesa (= 1:18.0.0-579836), libgl1-amdgpu-mesa-glx (= 1:18.0.0-579836), libgl1-amdgpu-mesa-dri (= 1:18.0.0-579836), libosmesa6-amdgpu (= 1:18.0.0-579836), mesa-amdgpu-va-drivers (= 1:18.0.0-579836), mesa-amdgpu-vdpau-drivers (= 1:18.0.0-579836), mesa-amdgpu-omx-drivers (= 1:18.0.0-579836), glamor-amdgpu (= 1.19.0-579836), xserver-xorg-amdgpu-video-amdgpu (= 1:1.4.0-579836), gst-omx-amdgpu (= 1.0.0.1-579836)
 Description: Meta package to install amdgpu components.
+++DELIMITER++
 Package: amdgpu-pro
 Status: install ok unpacked
 Priority: optional
